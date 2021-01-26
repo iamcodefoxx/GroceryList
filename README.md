@@ -1,4 +1,4 @@
-Grocery List Application for creating a grocery list
+Grocery List Application
 
 How it works
 - Type the name of your grocery item and hit the enter key to add it to your grocery list
